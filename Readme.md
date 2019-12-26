@@ -1,1 +1,4 @@
-<h1 strong>2D Platformer made in Unity and C#</h1>
+# 2D Platformer made in Unity and C#
+
+![Image of Player]()
+
